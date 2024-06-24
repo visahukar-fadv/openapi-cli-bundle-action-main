@@ -1,5 +1,5 @@
 # npx requires node 12+
-FROM node:12.22.7-alpine3.12
+FROM node:16.13.0-alpine3.12
 
 # Add whatever we need
 # RUN apk add --no-cache foo
